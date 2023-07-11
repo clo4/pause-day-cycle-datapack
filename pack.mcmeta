@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Disable `doDaylightCycle` and `doWeatherCycle` when nobody's playing"
+  }
+}
