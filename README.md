@@ -1,3 +1,9 @@
+# Archive notice
+
+This repository has been merged into [clo4/datapacks](https://github.com/clo4/datapacks). This repository is now out of date.
+
+---
+
 # Pause Day Cycle
 
 Lightweight Minecraft datapack to disable `doDaylightCycle` when nobody is
